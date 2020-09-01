@@ -2,5 +2,5 @@
 Repositório dedicado à disciplina de Padrões de Projetos de Sistemas, do curso de Banco de Dados da Fatec SJC.
 
 ## Integrantes
-Otavio Augusto Raposo Barreto;<br>
+Otavio A. Raposo Barreto;<br>
 Rodrigo César Reis
